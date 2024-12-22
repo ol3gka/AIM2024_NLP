@@ -37,7 +37,7 @@
 
 Истоник данных - https://www.kaggle.com/datasets/mczielinski/bitcoin-historical-data
 
-Источники:
+Литература:
 1) https://sbersova.ru/sections/invest/indikatory-v-tekhanalize?utm_source=digest&utm_medium=invst#3
 2) https://b2broker.com/ru/news/the-best-trend-indicators-for-trading-in-2023/
 3) https://github.com/ta-lib/ta-lib-python
