@@ -26,6 +26,14 @@
 В качестве крипто пары выбран USD-BTC (цена биткойна в долларах). Для обучения и тестирования моделей использовалиь исторические данные торгов с 2018 года.
 
 ---
+Результаты
+
+|  Модель      | Num of params | best Accuracy | Recall (at best accuracy) |
+| ---------------- |  ---------- |  -- | -- |
+| LSTM based            |  223_361  | 0.515 | 0.4 |
+| Transformer based               |  2_373_121    | 0.528 | 0.06 |
+
+---
 
 Истоник данных - https://www.kaggle.com/datasets/mczielinski/bitcoin-historical-data
 
