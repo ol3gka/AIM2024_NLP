@@ -30,10 +30,10 @@
 ---
 Результаты
 
-|  Модель      | Num of params | best Precision | Recall (at best precision) |
-| ---------------- |  ---------- |  -- | -- |
-| LSTM based            |  223_361  | 0.515 | 0.4 |
-| Transformer based               |  2_373_121    | 0.528 | 0.06 |
+|  Модель      | Num of params | best Precision | 
+| ---------------- |  ---------- |  -- | 
+| LSTM based            |  223_361  | 0.515 |
+| Transformer based               |  2_373_121    | 0.528 |
 
 ---
 
